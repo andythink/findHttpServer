@@ -1,19 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : service4all
-Source Server Version : 50532
-Source Host           : 192.168.227.7:3306
-Source Database       : hello_mysql
-
-Target Server Type    : MYSQL
-Target Server Version : 50532
-File Encoding         : 65001
-
-Date: 2013-07-14 19:15:13
-*/
-
-SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
 -- Table structure for `server_name_ip`
